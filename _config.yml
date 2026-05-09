@@ -1,0 +1,6 @@
+title: 投资分析博客
+description: 美股投资分析 - 每日市场报告
+theme: minima
+markdown: kramdown
+timezone: Asia/Shanghai
+future: true
