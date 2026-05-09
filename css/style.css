@@ -1,0 +1,12 @@
+/* 隐藏顶部大标题，节省空间 */
+.site-title {
+    display: none !important;
+}
+
+.site-header {
+    padding: 0.5em 0 !important;
+}
+
+.site-nav {
+    font-size: 0.9em !important;
+}
