@@ -13,6 +13,10 @@ title: 投资分析
 - [📊 每日报告](/investment-analysis/reports/) - 历史分析报告
 - [ℹ️ 关于博客](/investment-analysis/about/)
 
+## 大盘指数
+
+- [📊 大盘总览](/investment-analysis/market/) - 主要指数和ETF
+
 ## 个股分析
 
 点击下方链接查看各股票的详细分析（含期权大单数据）：
