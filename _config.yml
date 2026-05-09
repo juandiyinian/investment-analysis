@@ -1,19 +1,20 @@
 title: 
-description: 美股投资分析
+description: 个人美股复盘笔记 | 期权信号 | 数据驱动
 theme: minima
 markdown: kramdown
 timezone: Asia/Shanghai
 future: true
 
-# 导航菜单
+# 导航
 navigation_pages:
   - watchlist.md
-  - market.md
+  - options-radar.md
+  - macro.md
+  - journal.md
   - about.md
 
-# 禁用主页header大标题
 defaults:
   - scope:
       path: ""
     values:
-      layout: default
+      layout: page
