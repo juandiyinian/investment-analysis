@@ -1,6 +1,19 @@
-title: 投资分析博客
-description: 美股投资分析 - 每日市场报告
+title: 
+description: 美股投资分析
 theme: minima
 markdown: kramdown
 timezone: Asia/Shanghai
 future: true
+
+# 导航菜单
+navigation_pages:
+  - watchlist.md
+  - market.md
+  - about.md
+
+# 禁用主页header大标题
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
